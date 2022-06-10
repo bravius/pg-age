@@ -22,4 +22,4 @@ src/antlr4/*.tokens
 src/antlr4/*.interp
 
 # it will be create on "prepare" step.
-/dist
+# /dist
